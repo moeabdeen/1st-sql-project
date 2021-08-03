@@ -1,0 +1,17 @@
+row_num,genre,average_rental_rate
+16,Travel,3.24
+15,Sports,3.13
+14,Sci-Fi,3.22
+13,New,3.12
+12,Music,2.95
+11,Horror,3.03
+10,Games,3.25
+9,Foreign,3.10
+8,Family,2.76
+7,Drama,3.02
+6,Documentary,2.67
+5,Comedy,3.16
+4,Classics,2.74
+3,Children,2.89
+2,Animation,2.81
+1,Action,2.65
