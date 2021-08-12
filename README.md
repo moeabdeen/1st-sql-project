@@ -17,7 +17,7 @@ This is one of three projects where you have to apply what you have learned abou
 - **1st-project.pptx**
 - **dvd-rental-erd-2.png**
 
-The file with the code for the project:
+### The file with the code for the project:
 - **queries.sql**
 
 ### Credits
