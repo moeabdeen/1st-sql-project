@@ -10,7 +10,6 @@ In this project, I used **SQL** to demonstrate profficiency with SQL & to analys
 This is one of three projects where you have to apply what you have learned about Postgresql, python, git and github after being prepared by a lot of practice questions and quizes.
 
 ### Files used
-The files used to provide the data to be analyzed:
 - **results-1-query.csv**
 - **results-2-query.csv**
 - **results-3-query.csv**
